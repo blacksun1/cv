@@ -1,15 +1,16 @@
 # Simon Bruce - Curriculum vitae
 
 <span class="cv-details">**Current occupation:** Principal Developer, [Estates Gazette](http://www.estatesgazette.com/)  
+**GitHub profile:** [blacksun1](https://github.com/blacksun1/)  
 **LinkedIn profile:** [www.linkedin.com/in/simonbruce](http://www.linkedin.com/in/simonbruce)  
 **Blog:** [blog.blacksun.cx](https://blog.blacksun.cx/)  
 **Curriculum Vitae:** [blacksun.cx/cv/](http://blacksun.cx/cv/)  
-**Nationality:** Dual Australian and British<span>
+**Nationality:** Dual Australian and British  
+**Home City:** Adelaide, Australia (From January 2017<span>
 
 ## Work goals
 
-* Work on meaningful software development projects.
-* Continue writing and designing great software.
+* To continue crafting great code and building amazing products that solve real user's problems everyday.
 * Keep learning and leveraging technologies and best practices - everyday.
 * Strive for best practice but with the knowledge that what was best today will probably be bettered by tomorrow.
 
@@ -23,7 +24,7 @@
 
 ### Full stack web development
 
-* Long term software development in mainly Microsoft technologies &#8212; MEAN stack *(6 months)*, ASP.Net MVC *(~6 years)*, ASP.Net *(~7 years)*, Classic ASP *(~15 years)*, VB 6 *(~8 years)*. Other related skills are nHibernate *(~1 year)*, MbUnit *(~2 years)*, DB Linq *(~2 years)*, WCF *(~4 year)*, Castle Windsor *(~1 year)* and RhinoMocks *(~3 years)*.
+* Long term software development in mainly Microsoft technologies &#8212; NodeJS *(2 years)*, MongoDB *(2 years)*, ASP.Net MVC *(~6 years)*, ASP.Net *(~7 years)*, Classic ASP *(~15 years)*, VB 6 *(~8 years)*. Other related skills are nHibernate *(~1 year)*, MbUnit *(~2 years)*, DB Linq *(~2 years)*, WCF *(~4 year)*, Castle Windsor *(~1 year)* and RhinoMocks *(~3 years)*.
 * Ability to hand code to a very high standard in most web technologies such as &#8212; HTML *(~20 years)*, CSS *(~18 years)*, JavaScript *(~20 years)*, jQuery *(~8 years)*, XML/XSLT/XPATH *(~15 years)*, AngularJs *(6 months)*.
 * Have used other development technologies such as Ruby, Python, PHP, Perl but will use - and learn if I need to - the best tool for the job.
 * Have lead application development through all stages of the software development life cycle.
@@ -40,9 +41,9 @@
 
 ### Estates Gazette, Principal Developer
 
-December 2014&ndash;Present
+December 2014&ndash;December 2016
 
-Specialising in DevOps and full stack development mostly using the MEAN (MongoDB, Express, AngularJS and Node) stack.
+Specialising in DevOps and full stack development using NodeJS, MongoDB and AngularJS.
 
 * Setup of grunt build tools.
 * Building CloudFormation and puppet scripts to setup extranet environment.
@@ -51,8 +52,8 @@ Specialising in DevOps and full stack development mostly using the MEAN (MongoDB
 
 **Highlights**
 
-* Implemented complete DevOps pipeline allowing Estates Gazette to deploy new applications directly to live without any central operations support.
-* Setup of TeamCity CI pipelines including creation of NPM packages and automatic bumping of node package versions.
+* Release of multiple versions of EGi Insight from Greenfield and onwards
+* Implemented CI pipeline on AWS using TeamCity, NPM and CloudFormation
 
 **Main skills utilised:**
 
