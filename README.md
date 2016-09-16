@@ -143,7 +143,7 @@ June 2007&ndash;December 2011. London
 
 **Main skills utilised:**
 
-**Programming:** ASP Classic, MS-SQL, JavaScript, VisualBasic 6, .Net WinForms, .Net, .Net WebForms, COM+, *nix scripting and batch scripting.  
+**Programming:** ASP Classic, MS-SQL, JavaScript, VisualBasic 6, .Net WinForms, .Net, .Net WebForms, COM+, \*nix scripting and batch scripting.  
 **Web development:** XHTML, HTML, XML, XSLT, CSS, accessibility best practices.  
 **Windows System Administration:** Windows NT 4.0 through to Windows Server 2003, MS-SQL 6.5 through to 2005, IIS, FTP etc.  
 **Unix System Administration:** Operating systems used included Linux, OpenBSD and FreeBSD. Setting up and management of httpd (Apache), SSH, Firewalls, DNS, SMTP, POP3, IMAP, LDAP, VOIP etc.
