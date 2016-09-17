@@ -1,0 +1,24 @@
+{
+  "name": "blacksun1-cv",
+  "version": "0.0.0",
+  "description": "My CV",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blacksun1/cv.git"
+  },
+  "author": "blacksun1 <blacksun1@users.noreply.github.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blacksun1/cv/issues"
+  },
+  "homepage": "https://github.com/blacksun1/cv#readme",
+  "devDependencies": {
+    "code": "^3.0.2",
+    "lab": "^11.0.1",
+    "markdownlint": "^0.2.0"
+  }
+}
