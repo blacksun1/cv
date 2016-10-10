@@ -9,27 +9,29 @@
 **Nationality:** Dual Australian and British  
 **Home City:** Adelaide, Australia (From January 2017<span>
 
-## Work goals
+## Everyday work goals
 
-* To continue crafting great code and building amazing products that solve real user's problems everyday.
-* Keep learning and leveraging technologies and best practices - everyday.
-* Strive for best practice but with the knowledge that what was best today will probably be bettered by tomorrow.
+* To continue crafting great code and building amazing products that solve real user's problems.
+* Keep learning and leveraging the best technologies and practices but only pragmatically
 
 ## Qualities
 
+* Totally dedicated to agile practices and Test Driven Development.
 * Pragmatic attitude to learning, implementing and sharing better practice software development.
 * Proven communication skills with all participants of a project from the initial stake holder to the business manager
-  all the way through to the software developers.
+  all the way through to the team implementing the solution.
 * A team player who can see the big picture - mainly due to having played so mainly different roles over the years.
+* Strong attention to detail.
 
-## Skills
+## Key skills
 
 ### Full stack web development
 
-* Long term software development in mainly Microsoft technologies &#8212; NodeJS *(2 years)*, MongoDB *(2 years)*,
-  ASP.Net MVC *(~6 years)*, ASP.Net *(~7 years)*, Classic ASP *(~15 years)*, VB 6 *(~8 years)*.
-  Other related skills are nHibernate *(~1 year)*, MbUnit *(~2 years)*, DB Linq *(~2 years)*, WCF *(~4 year)*, Castle
-  Windsor *(~1 year)* and RhinoMocks *(~3 years)*.
+* NodeJS full stack *(~2 years)* - NodeJS and front end. Hapi, Code, Lab, Mocha, SinonJS, ChaiJS, MongoDB, AWS SQS, AWS
+  SNS and AngularJS.
+* Microsoft technologies Fullstack, ASP.Net MVC *(~6 years)*, ASP.Net *(~7 years)*, Classic ASP *(~15 years)*,
+  VB 6 *(~8 years)*. Other related skills are nHibernate *(~1 year)*, MbUnit *(~2 years)*, DB Linq *(~2 years)*,
+  WCF *(~4 year)*, Castle Windsor *(~1 year)* and RhinoMocks *(~3 years)*.
 * Ability to hand code to a very high standard in most web technologies such as &#8212; HTML *(~20 years)*,
   CSS *(~18 years)*, JavaScript *(~20 years)*, jQuery *(~8 years)*, XML/XSLT/XPATH *(~15 years)*, AngularJs *(6 months)*.
 * Have used other development technologies such as Ruby, Python, PHP, Perl but will use - and learn if I need to - the
@@ -38,13 +40,14 @@
 
 ### DevOps engineer
 
+* Administration of Linux servers using AWS EC2, Vagrant, AWS CloudFormation, TeamCity.
 * System administration of Windows NT 3.5 through to Window 2012 *(~20 years)* including IIS *(~19 years)*, MS SQL
   Server *(~19 years)*, MS Exchange *(~5 years)* and Hyper-V *(~5 years)*.
 * Have built and supported CI pipeline's in both CruiseControl.net and TeamCity. TeamCity work has included deployment
   of applications and infrastructure on AWS.
 * System administration of Unix systems including Linux and OpenBSD. Experience with supporting firewalls, DNS, Mail,
   Apache and CVS, SVN and GIT source control systems.
-* Hosting managed through AWS, RackSpace, in house data centers and others.
+* Hosting managed through AWS, RackSpace, in house data centres and others.
 * Development mainly in Puppet, Ruby, NodeJS, Bash and PowerShell
 
 ## Employment History
@@ -62,12 +65,13 @@ Specialising in DevOps and full stack development using NodeJS, MongoDB and Angu
 
 **Highlights**
 
-* Release of multiple versions of EGi Insight from Greenfield and onwards
+* Release of multiple versions of [EGi Insight](https://www.egi.co.uk/insight/) from Greenfield project
+* Wrote new API pattern to be rolled out across the EG business
 * Implemented CI pipeline on AWS using TeamCity, NPM and CloudFormation
 
-**Main skills utilised:**
+**Main skills utilised**
 
-**Programming:** NodeJS, AngularJS, MongoDB, C\#, ASP.Net MVC, JavaScript, Microsoft SQL, Windows Server
+**Programming:** NodeJS, HapiJS, Code, Lab, Mocha, Chai, AngularJS, MongoDB, JavaScript  
 **DevOps** AWS, Linux, CFNDSL, Puppet, bash, TeamCity, Ruby,
 
 ### ICIS, Senior Developer with Energy Dashboard team
@@ -93,7 +97,7 @@ Full stack development of ASP.Net MVC application utilising:
 * Mentoring of development teams via one on one pairing, mentoring and documentation.
 * Working closely with 5 independent software development teams in 3 locations and 2 countries.
 
-**Main skills utilised:**
+**Main skills utilised**
 
 **Programming:** C\#, ASP.Net MVC, JavaScript, JQuery, JQuery Widget Factory, Grunt, TeamCity.
 
@@ -103,8 +107,7 @@ December 2011&ndash;December 2013. Marylebone, London
 
 * Software development including:
     * Maintenance of legacy .Net systems using .Net web services, WCF, Win Forms, MS-SQL (2000 - 2012), Linq, Ninject.
-    * Initial development of new .Net system to replace old Delphi System: WPF, WCF, Entity Framework, MVVM (Caliburn
-      Micro), Ninject.
+    * Initial development of greenfield .Net system: WPF, WCF, Entity Framework, MVVM (Caliburn Micro) and Ninject.
     * Maintenance of legacy Delphi system.
 * Managing all IT work required including:
     * Contract negotiation.
@@ -112,14 +115,14 @@ December 2011&ndash;December 2013. Marylebone, London
       communication infrastructure, PABX, call recording, security systems, surveillance, networking, cooling and power.
     * On call 24/7.
 
-**Highlights:**
+**Highlights**
 
 * Installation of development test environment running on virtualised hardware.
 * Major clean up of local network infrastructure including implementation of regular cleaning and security processes.
 * Part of team rewriting the bespoke back office management system from Delphi 5 to .Net (C\#, WCF, MVVM).
 * Successful re-negotiation of key IT and communications contracts.
 
-**Main skills utilised:**
+**Main skills utilised**
 
 **System Administration:** Windows Server 2003 through to 2012 including Hyper-V, MS-SQL 2000 through to 20012,
 management of Windows XP through to Windows 8 PCs, Redmine, Subversion, MS Exchange 2010, MimeCast.  
@@ -136,7 +139,7 @@ June 2007&ndash;December 2011. London
   users, MimeCast email services and application servers (IIS, MS-SQL, DNS etc.) hosted externally.
 * Management of projects utilising the SCRUM methodology (Scrum master role).
 
-**Highlights:**
+**Highlights**
 
 * Moved all new development from Classic ASP to ASP.Net
 * Implemented SCRUM project management methodology and agile development principles into the software development team.
@@ -146,7 +149,7 @@ June 2007&ndash;December 2011. London
   while they build a compliant multinational insurance programme and then calculate and report on the tax payable across
   it. This had been in production for 2 years at the time I left with many upgrades.
 
-**Main skills utilised:**
+**Main skills utilised**
 
 **Programming:** C\#, ASP.Net MVC, MS-SQL, Classic ASP, JavaScript, .Net WinForms, WCF, Mono, NHibernate, SharePoint
 2010, PowerShell and batch scripting.  
@@ -161,13 +164,13 @@ Exchange 2007 and 2010, MimeCast.
 * Sole director of autom-8 since January 2005. Prior to this I was Technical Director.
 * Various web applications and modules
 
-**Highlights:**
+**Highlights**
 
 * Design, development and sale the of the bespoke content management system, gener-8, which was used heavily across the
   South Australian Government education sector and around 50 other businesses across the world.
 * Employed 11 full time staff at its peak.
 
-**Main skills utilised:**
+**Main skills utilised**
 
 **Programming:** ASP Classic, MS-SQL, JavaScript, VisualBasic 6, .Net WinForms, .Net, .Net WebForms, COM+, \*nix
 scripting and batch scripting.  
@@ -186,7 +189,7 @@ of httpd (Apache), SSH, Firewalls, DNS, SMTP, POP3, IMAP, LDAP, VOIP etc.
 * Department of Employment, Training and Further Education, South Australia (DETAFE), Contract Programmer – Early 1996
   to April 1998. Adelaide, Australia.
 
-**Highlights:**
+**Highlights**
 
 * Setup of a new Classic ASP CMS including the importation of data from an existing corporate CMS.
 * Worked on all of FASMIS’s (part of DETE) bespoke applications to confirm all of them were Y2K and 2011 ready.
@@ -195,7 +198,7 @@ of httpd (Apache), SSH, Firewalls, DNS, SMTP, POP3, IMAP, LDAP, VOIP etc.
   Server Pages was released. After the success of this project it became the model not only for DETAFE but also for the
   South Australian Education Department.
 
-**Main skills utilised:**
+**Main skills utilised**
 
 **Programming skills:** Classic ASP, MS-SQL 6.5 and 7, JavaScript, Visual Basic 6.  
 **Web development skills:** HTML, XML, XSLT, CSS, and accessibility best practices.  
