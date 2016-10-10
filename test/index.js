@@ -8,6 +8,8 @@ const MarkdownLint = require('markdownlint');
 // Test shortcuts
 
 const lab = exports.lab = Lab.script();
+const describe = lab.describe;
+const it = lab.it;
 const expect = Code.expect;
 
 
@@ -31,9 +33,9 @@ internals.options = {
 };
 
 
-lab.describe('README', () => {
+describe('README', () => {
 
-    lab.it('should lint', (done) => {
+    it('should lint', (done) => {
 
         // Arrange
         const options = {
@@ -49,5 +51,4 @@ lab.describe('README', () => {
 
         return done();
     });
-
 });
