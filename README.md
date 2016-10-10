@@ -52,7 +52,7 @@
 
 ## Employment History
 
-### Estates Gazette, Principal Developer
+### Estates Gazette, RBI, Principal Developer
 
 December 2014&ndash;December 2016
 
@@ -74,7 +74,7 @@ Specialising in DevOps and full stack development using NodeJS, MongoDB and Angu
 **Programming:** NodeJS, HapiJS, Code, Lab, Mocha, Chai, AngularJS, MongoDB, JavaScript  
 **DevOps** AWS, Linux, CFNDSL, Puppet, bash, TeamCity, Ruby,
 
-### ICIS, Senior Developer with Energy Dashboard team
+### ICIS, RBI, Senior Developer with Energy Dashboard team
 
 February 2014&ndash;December 2014
 
