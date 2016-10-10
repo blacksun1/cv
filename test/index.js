@@ -1,53 +1,53 @@
-"use strict";
+'use strict';
 
-const Code = require("code");
-const Lab = require("lab");
-const MarkdownLint = require("markdownlint");
-const Path = require("path")
+const Code = require('code');
+const Lab = require('lab');
+const MarkdownLint = require('markdownlint');
+
 
 // Test shortcuts
 
 const lab = exports.lab = Lab.script();
-const expect = Code.expect
+const expect = Code.expect;
+
 
 // Internals
 
 const internals = {};
 
 internals.lintConfig = {
-  "comment": "All rules",
-  "default": true,
-  "ul-indent": {indent: 4},
-  "no-trailing-spaces": {br_spaces: 2},
-  "line-length": {line_length: 120, code_blocks: false, tables: false},
-  "no-inline-html": false,
-  "no-emphasis-as-header": false,
+    'comment': 'All rules',
+    'default': true,
+    'ul-indent': { indent: 4 },
+    'no-trailing-spaces': { br_spaces: 2 },
+    'line-length': { line_length: 120, code_blocks: false, tables: false },
+    'no-inline-html': false,
+    'no-emphasis-as-header': false
 };
 
 internals.options = {
-  files: ["README.md"],
-  config: internals.lintConfig
+    files: ['README.md'],
+    config: internals.lintConfig
 };
 
-// Tests
 
-lab.describe("README", () => {
+lab.describe('README', () => {
 
-  lab.it("should lint", (done) => {
+    lab.it('should lint', (done) => {
 
-    // Arrange
-    const options = {
-      files: ["README.md"],
-      config: internals.lintConfig
-    };
+        // Arrange
+        const options = {
+            files: ['README.md'],
+            config: internals.lintConfig
+        };
 
-    // Act
-    const actual = MarkdownLint.sync(options).toString(true);
+        // Act
+        const actual = MarkdownLint.sync(options).toString(true);
 
-    // Assert
-    expect(actual).to.equal("");
+        // Assert
+        expect(actual).to.equal('');
 
-    return done();
-  });
+        return done();
+    });
 
 });

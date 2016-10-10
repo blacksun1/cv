@@ -4,7 +4,7 @@
   "description": "My CV",
   "main": "index.js",
   "scripts": {
-    "test": "node test"
+    "test": "lab --assert code --lint"
   },
   "repository": {
     "type": "git",
