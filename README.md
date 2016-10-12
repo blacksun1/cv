@@ -7,12 +7,13 @@
 **Blog:** [blog.blacksun.cx](https://blog.blacksun.cx/)  
 **Curriculum Vitae:** [blacksun.cx/cv/](http://blacksun.cx/cv/)  
 **Nationality:** Dual Australian and British  
-**Home City:** Adelaide, Australia (From January 2017<span>
+**Home City:** Adelaide, Australia (From January 2017)<span>
 
 ## Everyday work goals
 
-* To continue crafting great code and building amazing products that solve real user's problems.
-* Keep learning and leveraging the best technologies and practices but only pragmatically
+* To work as a full stack nodejs developer
+* Continue crafting great code and building amazing products that solve real user's problems
+* Keep following a pragmatic approach to learning and leveraging the best technologies and practices available
 
 ## Qualities
 
@@ -59,9 +60,10 @@ December 2014&ndash;December 2016
 Specialising in DevOps and full stack development using NodeJS, MongoDB and AngularJS.
 
 * Setup of grunt build tools.
-* Building CloudFormation and puppet scripts to setup extranet environment.
+* Building CloudFormation and puppet scripts to setup pre-live environment.
 * Creating and planning stories for new products.
 * Implementation of NodeJs and JavaScript code.
+* Software design for event driven architecture.
 
 **Highlights**
 
