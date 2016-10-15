@@ -7,7 +7,7 @@
 **Blog:** [blog.blacksun.cx](https://blog.blacksun.cx/)  
 **Curriculum Vitae:** [blacksun.cx/cv/](http://blacksun.cx/cv/)  
 **Nationality:** Dual Australian and British  
-**Home City:** Adelaide, Australia (From January 2017)<span>
+**Home City:** Adelaide, Australia (From January 2017)</span>
 
 ## Everyday work goals
 
@@ -37,7 +37,7 @@
   CSS *(~18 years)*, JavaScript *(~20 years)*, jQuery *(~8 years)*, XML/XSLT/XPATH *(~15 years)*, AngularJs *(6 months)*.
 * Have used other development technologies such as Ruby, Python, PHP, Perl but will use - and learn if I need to - the
   best tool for the job.
-* Have lead application development through all stages of the software development life cycle.
+* Have led application development through all stages of the software development life cycle.
 
 ### DevOps engineer
 
