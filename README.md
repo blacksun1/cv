@@ -57,13 +57,14 @@
 
 December 2014&ndash;December 2016
 
-Specialising in DevOps and full stack development using NodeJS, MongoDB and AngularJS.
+Specialising in full stack NodeJs and DevOps.
 
-* Setup of grunt build tools.
-* Building CloudFormation and puppet scripts to setup pre-live environment.
-* Creating and planning stories for new products.
-* Implementation of NodeJs and JavaScript code.
+* Shaped software development of current and future projects including mentoring of distributed teams.
+* Set the standard for testing, software design, infrastructure knowledge and HA architecture.
 * Software design for event driven architecture.
+* Implementation of NodeJs and JavaScript code.
+* Building CloudFormation and puppet scripts to setup pre-live and live environments.
+* Creating and planning stories for new products.
 
 **Highlights**
 
@@ -73,8 +74,8 @@ Specialising in DevOps and full stack development using NodeJS, MongoDB and Angu
 
 **Main skills utilised**
 
-**Programming:** NodeJS, HapiJS, Code, Lab, Mocha, Chai, AngularJS, MongoDB, JavaScript  
-**DevOps** AWS, Linux, CFNDSL, Puppet, bash, TeamCity, Ruby,
+**Programming:** NodeJS, HapiJS, Code, Lab, Mocha, Chai, AngularJS, MongoDB, JavaScript, AWS SQS, AWS SNS, AWS EC2  
+**DevOps:** Linux, AWS CloudFormation, CFNDSL, Puppet, bash, TeamCity, Ruby
 
 ### ICIS, RBI, Senior Developer with Energy Dashboard team
 
