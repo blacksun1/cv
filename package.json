@@ -1,11 +1,12 @@
 {
   "name": "blacksun1-cv",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "My CV",
   "main": "index.js",
   "scripts": {
     "test": "lab --assert code --lint",
-    "travis": "npm test"
+    "travis": "npm test",
+    "build": "sh ./build.sh"
   },
   "repository": {
     "type": "git",

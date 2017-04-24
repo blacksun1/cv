@@ -5,7 +5,8 @@ pipeline {
         stage('build') {
             steps {
                 echo 'Building'
-                archive 'README.md'
+                sh 'build.sh'
+                archive 'dist/**/*'
             }
         }
         stage('Test') {

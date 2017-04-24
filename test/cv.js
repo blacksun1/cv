@@ -28,7 +28,7 @@ internals.lintConfig = {
 };
 
 internals.options = {
-    files: ['README.md'],
+    files: ['src/cv.md'],
     config: internals.lintConfig
 };
 
@@ -39,7 +39,7 @@ describe('README', () => {
 
         // Arrange
         const options = {
-            files: ['README.md'],
+            files: ['src/cv.md'],
             config: internals.lintConfig
         };
 
