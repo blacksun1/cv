@@ -5,7 +5,7 @@ pipeline {
         stage('build') {
             steps {
                 echo 'Building'
-                sh './build.sh'
+                sh 'sh ./build.sh'
                 archive 'dist/**/*'
             }
         }
