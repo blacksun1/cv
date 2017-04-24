@@ -11,8 +11,8 @@ function failure {
 }
 
 printf 'Cleaning'
-[ -d dist ] && rm -rf dist || failure
-[ -d dist ] || mkdir dist || failure
+[ -d dist ] && rm -rf dist
+[ -d dist ] || mkdir dist
 success
 
 printf 'Building'
