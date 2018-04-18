@@ -27,26 +27,18 @@
 
 ### Full stack web development
 
-* NodeJS full stack *(~2 years)* - NodeJS and front end. Hapi, Code, Lab, Mocha, SinonJS, ChaiJS, MongoDB, AWS SQS, AWS
-  SNS and AngularJS
-* Microsoft technologies full stack, ASP.Net MVC *(~6 years)*, ASP.Net *(~7 years)*, Classic ASP *(~15 years)*,
-  VB 6 *(~8 years)*. Other related skills are nHibernate *(~1 year)*, MbUnit *(~2 years)*, DB Linq *(~2 years)*,
-  WCF *(~4 year)*, Castle Windsor *(~1 year)* and RhinoMocks *(~3 years)*
-* Ability to hand code to a very high standard in most web technologies such as &#8212; HTML *(~20 years)*,
-  CSS *(~18 years)*, JavaScript *(~20 years)*, jQuery *(~8 years)*, XML/XSLT/XPATH *(~15 years)*, AngularJs *(6 months)*
-* Have used other development technologies such as Ruby, Python, PHP, Perl but will use - and learn if I need to - the
-  best tool for the job
+* NodeJS full stack *(~2 years)* - NodeJS and front end. Hapi, Code, Lab, Mocha, SinonJS, ChaiJS, MongoDB, AWS SQS, AWS SNS and AngularJS
+* Microsoft technologies full stack, ASP.Net MVC *(~6 years)*, ASP.Net *(~7 years)*, Classic ASP *(~15 years)*, VB 6 *(~8 years)*. Other related skills are nHibernate *(~1 year)*, MbUnit *(~2 years)*, DB Linq *(~2 years)*, WCF *(~4 year)*, Castle Windsor *(~1 year)* and RhinoMocks *(~3 years)*
+* Ability to hand code to a very high standard in most web technologies such as &#8212; HTML *(~20 years)*, CSS *(~18 years)*, JavaScript *(~20 years)*, jQuery *(~8 years)*, XML/XSLT/XPATH *(~15 years)*, AngularJs *(6 months)*
+* Have used other development technologies such as Ruby, Python, PHP, Perl but will use - and learn if I need to - the best tool for the job
 * Have led application development through all stages of the software development life cycle.
 
 ### DevOps engineer
 
 * Administration of Linux servers using AWS EC2, Vagrant, AWS CloudFormation, TeamCity
-* System administration of Windows NT 3.5 through to Window 2012 *(~20 years)* including IIS *(~19 years)*, MS SQL
-  Server *(~19 years)*, MS Exchange *(~5 years)* and Hyper-V *(~5 years)*
-* Have built and supported CI pipeline's in both CruiseControl.net and TeamCity. TeamCity work has included deployment
-  of applications and infrastructure on AWS
-* System administration of Unix systems including Linux and OpenBSD. Experience with supporting firewalls, DNS, Mail,
-  Apache and CVS, SVN and GIT source control systems
+* System administration of Windows NT 3.5 through to Window 2012 *(~20 years)* including IIS *(~19 years)*, MS SQL Server *(~19 years)*, MS Exchange *(~5 years)* and Hyper-V *(~5 years)*
+* Have built and supported CI pipeline's in CruiseControl.net, TeamCity and Jenkins. Jenkins and TeamCity work has included deployment of applications and infrastructure on AWS
+* System administration of Unix systems including Linux and OpenBSD. Experience with supporting firewalls, DNS, Mail, Apache and CVS, SVN and GIT source control systems
 * Hosting managed through AWS, RackSpace, in house data centres and others
 * Development mainly in Puppet, Ruby, NodeJS, Bash and PowerShell
 
@@ -54,9 +46,25 @@
 
 ### Sine Group Pty Ltd, Senior Software Engineer
 
-From January 2017
+From January 2017&ndash;Present
 
-Specialising in full stack NodeJs
+Specialising in full stack NodeJs:
+
+* Key developer with great knowledge across the full product.
+* Mentoring of on-site teams.
+* Implementation of NodeJs, JavaScript and SQL (Postgres) code.
+* Creating and planning stories for new products.
+
+**Highlights**
+
+* Redesign of integration module platform.
+* Design, development and release of custom SAML module.
+* Big increase in backend code test coverage
+
+**Main skills utilised**
+
+**Programming:** NodeJS, Express, Mocha, Chai, AngularJS, Postgres, JavaScript, AWS SQS, AWS SNS, Amazon Elastic Container Service  
+**DevOps:** Linux, AWS CloudFormation, Jenkins
 
 ### Estates Gazette, RBI, Principal Developer
 
@@ -88,8 +96,7 @@ February 2014&ndash;December 2014
 
 Full stack development of ASP.Net MVC application:
 
-* JavaScript front end utilising widget factory framework relying heavily on jQuery and jQuery templating and qUnit
-  unit testing framework
+* JavaScript front end utilising widget factory framework relying heavily on jQuery and jQuery templating and qUnit unit testing framework
 * C\# back end using ASP.Net MVC and hosted on AWS virtual servers. Developed using TDD and a test first process
 * Integration with existing enterprise libraries and services
 * Mentoring of junior developers across 3 locations

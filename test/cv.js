@@ -22,7 +22,7 @@ internals.lintConfig = {
     'default': true,
     'ul-indent': { indent: 4 },
     'no-trailing-spaces': { br_spaces: 2 },
-    'line-length': { line_length: 120, code_blocks: false, tables: false },
+    'line-length': false,
     'no-inline-html': false,
     'no-emphasis-as-header': false
 };
@@ -35,7 +35,7 @@ internals.options = {
 
 describe('README', () => {
 
-    it('should lint', (done) => {
+    it('should lint', () => {
 
         // Arrange
         const options = {
@@ -48,7 +48,5 @@ describe('README', () => {
 
         // Assert
         expect(actual).to.equal('');
-
-        return done();
     });
 });

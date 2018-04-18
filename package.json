@@ -19,8 +19,8 @@
   },
   "homepage": "https://github.com/blacksun1/cv#readme",
   "devDependencies": {
-    "code": "^4.0.0",
-    "lab": "^11.0.1",
-    "markdownlint": "^0.2.0"
+    "code": "^5.2.0",
+    "lab": "^15.4.1",
+    "markdownlint": "^0.8.1"
   }
 }
