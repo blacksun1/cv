@@ -27,26 +27,44 @@
 
 ### Full stack web development
 
-* NodeJS full stack *(~2 years)* - NodeJS and front end. Hapi, Code, Lab, Mocha, SinonJS, ChaiJS, MongoDB, AWS SQS, AWS SNS and AngularJS
+* NodeJS full stack *(~4 years)* - NodeJS and front end. Hapi, Code, Lab, Mocha, SinonJS, ChaiJS, MongoDB, AWS SQS, AWS SNS and AngularJS
 * Microsoft technologies full stack, ASP.Net MVC *(~6 years)*, ASP.Net *(~7 years)*, Classic ASP *(~15 years)*, VB 6 *(~8 years)*. Other related skills are nHibernate *(~1 year)*, MbUnit *(~2 years)*, DB Linq *(~2 years)*, WCF *(~4 year)*, Castle Windsor *(~1 year)* and RhinoMocks *(~3 years)*
+* Java and Kotlin full stack *(A bit)*
 * Ability to hand code to a very high standard in most web technologies such as &#8212; HTML *(~20 years)*, CSS *(~18 years)*, JavaScript *(~20 years)*, jQuery *(~8 years)*, XML/XSLT/XPATH *(~15 years)*, AngularJs *(6 months)*
 * Have used other development technologies such as Ruby, Python, PHP, Perl but will use - and learn if I need to - the best tool for the job
 * Have led application development through all stages of the software development life cycle.
 
 ### DevOps engineer
 
-* Administration of Linux servers using AWS EC2, Vagrant, AWS CloudFormation, TeamCity
+* Administration of Linux servers on Metal, AWS, Azure and Rackspace stacks
 * System administration of Windows NT 3.5 through to Window 2012 *(~20 years)* including IIS *(~19 years)*, MS SQL Server *(~19 years)*, MS Exchange *(~5 years)* and Hyper-V *(~5 years)*
-* Have built and supported CI pipeline's in CruiseControl.net, TeamCity and Jenkins. Jenkins and TeamCity work has included deployment of applications and infrastructure on AWS
+* Have built and supported CI pipeline's in CruiseControl.net, TeamCity, Jenkins and Visual Studio Team Services (Azure Devops). Jenkins and TeamCity work has included deployment of applications and infrastructure on AWS and metal. Azure devops has included deployment of applications and infrastructure on Azure
 * System administration of Unix systems including Linux and OpenBSD. Experience with supporting firewalls, DNS, Mail, Apache and CVS, SVN and GIT source control systems
-* Hosting managed through AWS, RackSpace, in house data centres and others
+* Hosting managed through AWS, Azure, RackSpace, in house data centres and others
 * Development mainly in Puppet, Ruby, NodeJS, Bash and PowerShell
 
 ## Employment History
 
+### Buddy Platform
+
+From July 2018&ndash;Present
+
+Specialising in full stack Java including DevOps:
+
+* React Native development
+* Backend Java
+* Scrum master
+* DevOps
+* Support
+
+**Main skills utilised**
+
+**Programming:** Java, Kotlin, React Native
+**DevOps:** Linux, Azure, VSTS (Azure Devops), Azure Kubernetes Service
+
 ### Sine Group Pty Ltd, Senior Software Engineer
 
-From January 2017&ndash;Present
+From January 2017&ndash;June 2018
 
 Specialising in full stack NodeJs:
 

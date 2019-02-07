@@ -22,7 +22,7 @@ format="markdown_phpextra"
 
 cp "${cvSrc}" "${cvDist}.md" || failure
 
-docker run --volume `pwd`:/source jagregory/pandoc:latest "${cvSrc}" --reference-docx="src/reference.docx" -f "${format}" -o "${cvDist}.docx" -t docx || failure
+docker run --rm --volume `pwd`:/source jagregory/pandoc:latest "${cvSrc}" --reference-docx="src/reference.docx" -f "${format}" -o "${cvDist}.docx" -t docx || failure
 success
 
 printf 'Done'
