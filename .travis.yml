@@ -4,6 +4,6 @@ script:
   - npm run travis
 
 node_js:
-  - "LTS"
+  - "v10.15.1"
 
 sudo: false
