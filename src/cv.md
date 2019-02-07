@@ -1,10 +1,9 @@
 # Simon Bruce - Curriculum vitae
 
-<span class="cv-details">**Current occupation:** Senior Software Engineer,
-[Sine Group Pty Ltd](https://www.sine.co/)  
+<span class="cv-details">**Current occupation:** Software Engineer,
+[Buddy Platform](https://buddy.com/)  
 **GitHub profile:** [blacksun1](https://github.com/blacksun1/)  
 **LinkedIn profile:** [www.linkedin.com/in/simonbruce](http://www.linkedin.com/in/simonbruce)  
-**Blog:** [blog.blacksun.cx](https://blog.blacksun.cx/)  
 **Curriculum Vitae:** [blacksun.cx/cv/](http://blacksun.cx/cv/)  
 **Nationality:** Dual Australian and British  
 **Home City:** Adelaide, Australia</span>
