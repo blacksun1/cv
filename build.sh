@@ -1,10 +1,10 @@
 #! /bin/bash
 
-function success {
+success () {
     printf ' ✅ \n'
 }
 
-function failure {
+failure () {
     printf ' ❎ \n'
     printf 'Failure!!!\n'
     exit 1
