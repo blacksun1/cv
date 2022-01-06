@@ -1,8 +1,6 @@
 # Simon Bruce - Curriculum vitae
 
-<span class="cv-details">**Current occupation:** Software Engineer,
-[Buddy Platform](https://buddy.com/)  
-**GitHub profile:** [blacksun1](https://github.com/blacksun1/)  
+<span class="cv-details">**GitHub profile:** [blacksun1](https://github.com/blacksun1/)  
 **LinkedIn profile:** [www.linkedin.com/in/simonbruce](http://www.linkedin.com/in/simonbruce)  
 **Curriculum Vitae:** [blacksun.cx/cv/](http://blacksun.cx/cv/)  
 **Nationality:** Dual Australian and British  
@@ -10,7 +8,7 @@
 
 ## Everyday work goals
 
-* To work as a full stack NodeJs developer
+* To work as a full stack developer
 * Continue crafting great code and building amazing products that solve real user's problems
 * Develop, learn and leverage the best technologies and practices available
 
@@ -26,27 +24,68 @@
 
 ### Full stack web development
 
-* NodeJS full stack *(~4 years)* - NodeJS and front end. Hapi, Code, Lab, Mocha, SinonJS, ChaiJS, MongoDB, AWS SQS, AWS SNS and AngularJS
-* Microsoft technologies full stack, ASP.Net MVC *(~6 years)*, ASP.Net *(~7 years)*, Classic ASP *(~15 years)*, VB 6 *(~8 years)*. Other related skills are nHibernate *(~1 year)*, MbUnit *(~2 years)*, DB Linq *(~2 years)*, WCF *(~4 year)*, Castle Windsor *(~1 year)* and RhinoMocks *(~3 years)*
+* NodeJS full stack *(~7 years)* - NodeJS and front end. Hapi, Code, Lab, Mocha, SinonJS, ChaiJS, MongoDB, AWS SQS, AWS SNS and AngularJS
+* Microsoft technologies full stack, ASP.Net MVC *(~6 years)*, ASP.Net *(~7 years)*, Classic ASP *(~15 years)*, VB 6 *(~8 years)* .Net Core *(~1 year)*.Other related skills are EF Core *(~1 year)*, XUnit *(~1 year)*, Moq *(~1year)*,nHibernate *(~1 year)*, MbUnit *(~2 years)*, DB Linq *(~2 years)*, WCF *(~4 year)*, Castle Windsor *(~1 year)* and RhinoMocks *(~3 years)*
 * Java and Kotlin full stack *(A bit)*
-* Ability to hand code to a very high standard in most web technologies such as &#8212; HTML *(~20 years)*, CSS *(~18 years)*, JavaScript *(~20 years)*, jQuery *(~8 years)*, XML/XSLT/XPATH *(~15 years)*, AngularJs *(6 months)*
+* Ability to hand code to a very high standard in most web technologies such as &#8212; HTML *(~20 years)*, CSS *(~18 years)*, JavaScript *(~20 years)*, Angular *(~1 year)*, React (~1 year), jQuery *(~8 years)*, XML/XSLT/XPATH *(~15 years)*, AngularJs *(6 months)*
 * Have used other development technologies such as Ruby, Python, PHP, Perl but will use - and learn if I need to - the best tool for the job
 * Have led application development through all stages of the software development life cycle.
 
 ### DevOps engineer
 
 * Administration of Linux servers on Metal, AWS, Azure and Rackspace stacks
-* System administration of Windows NT 3.5 through to Window 2012 *(~20 years)* including IIS *(~19 years)*, MS SQL Server *(~19 years)*, MS Exchange *(~5 years)* and Hyper-V *(~5 years)*
-* Have built and supported CI pipeline's in CruiseControl.net, TeamCity, Jenkins and Visual Studio Team Services (Azure Devops). Jenkins and TeamCity work has included deployment of applications and infrastructure on AWS and metal. Azure devops has included deployment of applications and infrastructure on Azure
-* System administration of Unix systems including Linux and OpenBSD. Experience with supporting firewalls, DNS, Mail, Apache and CVS, SVN and GIT source control systems
+* System administration of Windows NT 3.5 through to Window 2019 *(~23 years)* including IIS *(~19 years)*, MS SQL Server *(~19 years)*, MS Exchange *(~5 years)* and Hyper-V *(~5 years)*
+* Have built and supported CI pipeline's in CruiseControl.net, TeamCity, Jenkins, Azure Devops, BitBucket and Netlify. Jenkins and TeamCity work has included deployment of applications and infrastructure on AWS and metal. Azure DevOps has included deployment of applications and infrastructure on Azure and AWS.
+* System administration of Unix systems including Linux, OpenBSD and MacOs. Experience with supporting firewalls, DNS, Mail, Apache and CVS, SVN and GIT source control systems
 * Hosting managed through AWS, Azure, RackSpace, in house data centres and others
 * Development mainly in Puppet, Ruby, NodeJS, Bash and PowerShell
 
 ## Employment History
 
+### Xeppo
+
+From Oct 2020&ndash;Present
+
+Development Team Lead, Partner Solutions
+
+Team lead, full stack development mainly based on the .Net Framework
+
+* Mentoring one junior developer
+* Working on top of a legacy .Net Framework application which lives on top of a much larger .Net framework/MS SQL Software as a Service.
+* .NET Framework
+* MS-SQL (Azure SQL)
+* React
+* JavaScript
+* JQuery
+* DevOps
+
+<!-- markdownlint-disable MD026 -->
+### KWP!
+<!-- markdownlint-enable MD026 -->
+
+From May 2019&ndash;September 2020
+
+Team Lead, using various technologies such as:
+
+* Mentoring up to 3 distributed teams while overseeing the architecture of many simultaneous projects
+* .Net Core
+* Node JS
+* React
+* Angular (vs 6 to 10)
+* DevOps
+
+**Main skills utilised**
+
+Main skills utilised
+
+**Backend:** .Net Core, NodeJS, Azure Functions (using JavaScript and .Net Core), KOA, Express, Hapi, Lab + Code, Mocha + Chai, XUnit + Moq + Microsoft.NET.Test.Sdk + FluentAssertions, MS SQL, Redis, JavaScript, Docker  
+**CMS:** Acoustic Content (Used to be Watson Content Hub), Orchard Core, Contentful, WordPress, Sitefinity  
+**Frontend:** Angular (vs 6 to 10), React, Next JS, Gatsby  
+**DevOps:** Azure DevOps build and release pipelines, Windows, Linux, az cli automation, Azure WebApps, Azure Function, bash
+
 ### Buddy Platform
 
-From July 2018&ndash;Present
+From July 2018&ndash;April 2019
 
 Specialising in full stack Java including DevOps:
 
@@ -58,7 +97,7 @@ Specialising in full stack Java including DevOps:
 
 **Main skills utilised**
 
-**Programming:** Java, Kotlin, React Native
+**Programming:** Java, Kotlin, React Native  
 **DevOps:** Linux, Azure, VSTS (Azure Devops), Azure Kubernetes Service
 
 ### Sine Group Pty Ltd, Senior Software Engineer
@@ -249,3 +288,8 @@ Available on request.
 *[MVC]: Model View Controller
 *[HTML]: Hypertext Markup Language
 *[DNS]: Domain Name System
+*[XML]: Extensible Markup Language
+*[XSLT]: Extensible Stylesheet Language
+*[DETAFE]: Department of Employment, Training and Further Education, South Australia
+*[DETE]: Department of Education, Training and Employment, South Australia
+*[MVVM]: Model-View-ViewModel
