@@ -59,6 +59,16 @@ Team lead, full stack development mainly based on the .Net Framework
 * JQuery
 * DevOps
 
+**Highlights**
+
+Redesigned application to allow for quicker development while improving testability and ease of use for customers while taking into account changes in requirements from legislation changes and the product owners.
+
+**Main skills utilised**
+
+**Backend:** ASP.Net MVC Framework, MS-SQL (Azure SQL), Azure DevOps  
+**Frontend:** ASP.Net MVC Framework, JQuery, Kendo, React  
+**DevOps:** Azure DevOps build and release pipelines, Windows, az cli automation, Azure WebApps
+
 <!-- markdownlint-disable MD026 -->
 ### KWP!
 <!-- markdownlint-enable MD026 -->
@@ -75,8 +85,6 @@ Team Lead, using various technologies such as:
 * DevOps
 
 **Main skills utilised**
-
-Main skills utilised
 
 **Backend:** .Net Core, NodeJS, Azure Functions (using JavaScript and .Net Core), KOA, Express, Hapi, Lab + Code, Mocha + Chai, XUnit + Moq + Microsoft.NET.Test.Sdk + FluentAssertions, MS SQL, Redis, JavaScript, Docker  
 **CMS:** Acoustic Content (Used to be Watson Content Hub), Orchard Core, Contentful, WordPress, Sitefinity  
