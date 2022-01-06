@@ -1,17 +1,11 @@
 'use strict';
 
-const Code = require('code');
-const Lab = require('lab');
+const Code = require('@hapi/code');
+const Lab = require('@hapi/lab');
 const MarkdownLint = require('markdownlint');
 
-
-// Test shortcuts
-
-const lab = exports.lab = Lab.script();
-const describe = lab.describe;
-const it = lab.it;
-const expect = Code.expect;
-
+const { expect } = Code;
+const { describe, it } = exports.lab = Lab.script();
 
 // Internals
 
