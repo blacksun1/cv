@@ -35,11 +35,12 @@ jobs:
         path: dist
         if-no-files-found: error
     - name: SFTP Deploy
+      if: github.ref == 'refs/heads/master'
       uses: wlixcc/SFTP-Deploy-Action@v1.2.1
       with:
-        username: ubuntu
-        server: reason2.blacksun.cx
+        username: ${{ secrets.SSH_USERNAME }}
+        server: ${{ secrets.SSH_SERVER }}
         ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }}
         local_path: './dist/*'
         remote_path: '/var/sites/blacksun.cx/cv/'
-      
+
