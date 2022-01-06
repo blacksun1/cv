@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "lab",
-    "travis": "npm test",
+    "github": "npm test",
     "build": "sh ./build.sh"
   },
   "repository": {
